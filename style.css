@@ -1,0 +1,44 @@
+body {
+    background-image: url('903573.jpg');
+}
+
+#logo {
+    margin-right: 50px;
+   width: 300px; 
+   height: 150px;
+}
+
+#LogIn {
+    position: absolute;
+    left: 1800px;
+    top: 20px;
+    border-radius: 15px;
+    background: linear-gradient(to right, rgb(197, 41, 67), rgb(221, 84, 221));
+    color: white;
+    width: 100px;
+    height: 50px;
+
+}
+
+#Title {
+    font-size: 40px;
+    color: white;
+}
+
+#textOnPage {
+    color: white;
+}
+
+#PlayNow {
+    position: absolute;
+    border-radius: 15px;
+    background: linear-gradient(to right, rgb(197, 41, 67), rgb(221, 84, 221));
+    color: white;
+    width: 100px;
+    height: 50px;
+}
+
+#margin {
+    margin-left: 50px;
+}
+
